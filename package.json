@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/smugclimber/boardhorde-api/issues"
   },
-  "homepage": "https://github.com/smugclimber/boardhorde-api#readme"
+  "homepage": "https://github.com/smugclimber/boardhorde-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
 }
