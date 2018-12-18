@@ -1,6 +1,6 @@
 # boardhorde-api
 
-Quikc dirty Instructions: 
+Quick dirty Instructions: 
 git clone 
 
 
